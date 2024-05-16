@@ -9,4 +9,5 @@ The top chest contains fish, and it regenerates every 10 seconds.  Each of the s
 
 The bottom chest contains utility items such as a Knockback X sword that can be used to hamper your opponents.
 
-This game is meant to be played in adventure mode.  It can also be played as a minigame on a server network.  Feel free to fork this repository and improve this idea.
+### Other Info + "Licence"
+This game is meant to be played in adventure mode.  It can also be played as a minigame on a server network.  Feel free to use code from this repository and improve on this idea.
